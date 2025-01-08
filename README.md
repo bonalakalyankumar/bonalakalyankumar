@@ -25,7 +25,7 @@
 
 ### 🌐 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/kalyan-kumar-844722171" target="_blank">
+  <a href="https://www.linkedin.com/in/kalyan-kumar-bonala-844722171/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:kalyan.bonala.k@gmail.com">
